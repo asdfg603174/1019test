@@ -1,2 +1,4 @@
 # 1019test
-print("sdiufhl")
+你好
+hello
++0.0+
